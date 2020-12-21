@@ -21,3 +21,5 @@ For details of the project's process, please read Jupyter notebooks in the order
 
 This link provides access to all three models:
 https://drive.google.com/drive/folders/1sJIyN896OKFjiWKdcVdShqmIidM6yPIk?usp=sharing
+
+To rerun the models in '5-Testing Models.ipynb', please download and place the models in the '4-Models' folder
