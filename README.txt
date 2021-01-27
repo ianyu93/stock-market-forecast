@@ -1,4 +1,5 @@
 #### User Guide ####
+## Note: This is a read-only repo. This project is expanded into an end-to-end asset alloction system: https://github.com/ianyu93/asset-allocation-system
 
 The project contains:
 - A summary report in PDF
